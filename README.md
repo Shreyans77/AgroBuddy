@@ -9,3 +9,5 @@ Reasearch Project on Crop Recommendation and Disease Detection using Machine Lea
 **API used** : [Open Government Data (OGD)](https://www.data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi)
 
 **ML Model** : Naive Bayes, Decision Tree, Random Forest
+
+**DL Model** : Convolutional Nueral Network(CNN)
